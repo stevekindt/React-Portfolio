@@ -1,13 +1,13 @@
-import React from 'react';
-import PortfolioContainer from './components/PortfolioContainer';
-import Footer from './Components/Footer';
+import React from "react";
+import PortfolioContainer from "./components/PortfolioContainer";
+import Footer from "./components/Footer";
+import "./index.css";
 
 function App() {
   return (
     <div className="App">
-    
-    <PortfolioContainer />
-    <Footer />
+      <PortfolioContainer />
+      <Footer />
     </div>
   );
 }
