@@ -1,1 +1,1 @@
-# React-Portfolio
+Hi, I'm Steve and this portfolio is an introduction to some of the work I've done. The portfolio was built with React, and the individual projects showcased were built using a variety of technologies.
